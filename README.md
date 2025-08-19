@@ -1,2 +1,6 @@
 # setup
-Script to setup Mac Apple Silicon
+A script to setup Macbook Pro with Apple Silicon
+
+## How to Run
+./setup.sh
+
