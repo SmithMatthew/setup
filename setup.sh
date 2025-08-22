@@ -156,6 +156,7 @@ fi
 
 # libyaml (required to install ruby via asdf, which is required for ios stuff)
 check_and_install_cask "iterm2"
+check_and_install_cask "warp"
 check_and_install_cask "docker"
 check_and_install_cli "libyaml"
 check_and_install_cli "neovim"
