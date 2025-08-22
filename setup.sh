@@ -190,6 +190,9 @@ install_latest_stable_runtime "ruby" "https://github.com/asdf-vm/asdf-ruby.git"
 install_latest_stable_runtime "rust" "https://github.com/asdf-community/asdf-rust.git"
 install_latest_stable_runtime "java"
 
+# --------Install Claude Code--------
+npm install -g @anthropic-ai/claude-code
+claude --version
 
 # aliases
 zshrc_file="$HOME/.zshrc"
