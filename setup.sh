@@ -203,9 +203,6 @@ ALIASES=(
     "alias dev='cd ~/dev'"
     "alias ll='ls -al'"
     "alias pro='cd ~/dev/projects/internal'"
-    "alias ll='ls -lG'"
-    "alias gs='git status'"
-    "alias myalias='echo \"Hello from my alias!\"'"
 )
 
 ZSHRC_FILE="$HOME/.zshrc"
