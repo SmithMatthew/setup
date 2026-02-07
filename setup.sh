@@ -194,6 +194,10 @@ install_latest_stable_runtime "java"
 npm install -g @anthropic-ai/claude-code
 claude --version
 
+# --------Install Gemini CLI---------
+npm install -g @google/gemini-cli
+gemini --version
+
 # aliases
 zshrc_file="$HOME/.zshrc"
 
